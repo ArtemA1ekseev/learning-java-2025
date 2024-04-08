@@ -131,3 +131,6 @@ https://github.com/zemscky/diplom-shop
 2) https://docs.spring.io/spring-security/reference/servlet/getting-started.html
 3) https://habr.com/ru/company/otus/blog/488418/
 4) https://www.baeldung.com/spring-security-method-security
+
+
+https://javarush.ipnodns.ru/
