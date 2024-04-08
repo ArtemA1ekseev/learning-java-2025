@@ -112,3 +112,12 @@ _________________________________________________________________
 2) https://github.com/allicen/Java-1000, 
 
 3) https://github.com/OlgaLugacheva/java-courses
+
+@all Привет, еще раз. Наставник пристал ссылки, где хорошо раскрыта тема Многопоточность, отправляю вам на ознакомление. 
+
+[https://habr.com/ru/sandbox/167189/](https://habr.com/ru/sandbox/167189/)  
+[https://www.baeldung.com/java-wait-notify](https://www.baeldung.com/java-wait-notify)  
+[https://www.baeldung.com/java-runnable-callable](https://www.baeldung.com/java-runnable-callable)  
+[https://tproger.ru/translations/java8-concurrency-tutorial-2/](https://tproger.ru/translations/java8-concurrency-tutorial-2/)  
+[https://tproger.ru/translations/java8-concurrency-tutorial-3/](https://tproger.ru/translations/java8-concurrency-tutorial-3/)  
+[https://tproger.ru/translations/10-java-multithread-practices/](https://tproger.ru/translations/10-java-multithread-practices/)
