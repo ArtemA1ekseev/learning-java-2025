@@ -5,3 +5,5 @@
 4) [Потрясающая Java](https://github.com/akullpp/awesome-java)
 5) [Java. Путь от ученика до эксперта](https://github.com/OlgaLugacheva/java-courses)
 6) [1000 задач на Java](https://github.com/allicen/Java-1000)
+
+[На главную](https://github.com/ArtemA1ekseev/learning-java-2025/blob/main/README.md)
