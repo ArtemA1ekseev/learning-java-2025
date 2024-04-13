@@ -1,4 +1,7 @@
-# learning-java-2025
+# Обучение программированию на Java 2024 / 2025
+
+![scale_1200](https://github.com/ArtemA1ekseev/learning-java-2025/assets/113195869/1cf48b67-94ed-40ba-a94d-3fafe570f9f3)
+
 
 1)  Java core
 2)  Algorythms & Data Structures
