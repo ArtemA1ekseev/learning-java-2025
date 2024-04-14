@@ -31,7 +31,7 @@
 - [Документация (eng)](https://clck.ru/YkRdA)
 - Статьи:
   - https://clck.ru/atHRj
-  -https://habr.com/ru/post/490586/
+  - https://habr.com/ru/post/490586/
 
 ## 🔘JPA/Hibernate
 [Видео-курс 1](https://clck.ru/atHRw)
@@ -41,23 +41,31 @@
   - https://clck.ru/atHSQ
 
 ## 🔘Тесты
-Статьи по JUnit: 
-https://javarush.ru/groups/posts/605-..., https://habr.com/ru/company/otus/blog..., https://habr.com/ru/post/120101/
+- Статьи по JUnit: 
+  - https://javarush.ru/groups/posts/605
+  - https://habr.com/ru/post/120101/
 Видео:
 https://clck.ru/atHSq, https://clck.ru/atHTG
-Отличный канал с уроками, кстати ^
 
-Бонус
-🔘Материалы:
+## 🔘Материалы:
 1) https://tproger.ru/digest/java/,
 2) https://clck.ru/atHTb,
 3) https://habr.com/ru/post/132241/,
 
-🔘Статьи: 
+## 🔘Статьи: 
 1) https://clck.ru/atHTt,
 2) https://proglib.io/p/8-good-habits,
 3) https://tproger.ru/translations/where...,
 4) https://tproger.ru/digest/java/
+
+## 🔘Многопоточность
+- [https://habr.com/ru/sandbox/167189/](https://habr.com/ru/sandbox/167189/)  
+- [https://www.baeldung.com/java-wait-notify](https://www.baeldung.com/java-wait-notify)  
+- [https://www.baeldung.com/java-runnable-callable](https://www.baeldung.com/java-runnable-callable)  
+- [https://tproger.ru/translations/java8-concurrency-tutorial-2/](https://tproger.ru/translations/java8-concurrency-tutorial-2/)  
+- [https://tproger.ru/translations/java8-concurrency-tutorial-3/](https://tproger.ru/translations/java8-concurrency-tutorial-3/)  
+- [https://tproger.ru/translations/10-java-multithread-practices/](https://tproger.ru/translations/10-java-multithread-practices/)
+
 _________________________________________________________________
 
 🔵ЗАНИМАЮСЬ СЕЙЧАС🔵
@@ -73,16 +81,6 @@ _________________________________________________________________
 
 6) Углубленная Java: https://clck.ru/atH8r (0 видео из 65)
 
-@all Привет, еще раз. Наставник пристал ссылки, где хорошо раскрыта тема Многопоточность, отправляю вам на ознакомление. 
-
-[https://habr.com/ru/sandbox/167189/](https://habr.com/ru/sandbox/167189/)  
-[https://www.baeldung.com/java-wait-notify](https://www.baeldung.com/java-wait-notify)  
-[https://www.baeldung.com/java-runnable-callable](https://www.baeldung.com/java-runnable-callable)  
-[https://tproger.ru/translations/java8-concurrency-tutorial-2/](https://tproger.ru/translations/java8-concurrency-tutorial-2/)  
-[https://tproger.ru/translations/java8-concurrency-tutorial-3/](https://tproger.ru/translations/java8-concurrency-tutorial-3/)  
-[https://tproger.ru/translations/10-java-multithread-practices/](https://tproger.ru/translations/10-java-multithread-practices/)
-
-
 Тестирование изучить:
 https://github.com/zemscky/diplom-shop
 
