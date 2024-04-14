@@ -6,4 +6,5 @@
 5) [Java. Путь от ученика до эксперта](https://github.com/OlgaLugacheva/java-courses)
 6) [1000 задач на Java](https://github.com/allicen/Java-1000)
 
+_________________________________________________________________
 [На главную](https://github.com/ArtemA1ekseev/learning-java-2025/blob/main/README.md)
