@@ -8,4 +8,5 @@
 1) [Sql academy](https://sql-academy.org/ru)
 2) [Упражнения по SQL](https://www.sql-ex.ru/)
 
+_________________________________________________________________
 [На главную](https://github.com/ArtemA1ekseev/learning-java-2025/blob/main/README.md)
