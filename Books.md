@@ -14,5 +14,9 @@
 11) [Книги Гари Корнелла](https://www.labirint.ru/authors/78641/)
 12) [Cracking the Coding Interview: 150 Programming Interview Questions and Solution»
 Gayle Laakmann](https://vk.com/wall-79831840_18413)
+## Алгоритмы и структуры данных
+1) [Адитья Бхаргава "Грокаем алгоритмы. Иллюстрированное пособие для программистов и любопытствующих"](https://vk.com/wall-54530371_184116)
+2) [Роберт Лафоре | Структуры данных и алгоритмы в Java (2013)](https://vk.com/wall-111905078_36372)
+3) [Т.Кормен, Ч.Лейзерсон, Р.Ривест, К.Штайн - Алгоритмы. Построение и анализ. Издание 3-е (2013)](https://vk.com/wall-54530371_2325)
 
 [На главную](https://github.com/ArtemA1ekseev/learning-java-2025/blob/main/README.md)
