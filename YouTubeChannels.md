@@ -9,3 +9,4 @@
 7) [Oracle Academy](https://vk.cc/7W5eZ2)
 8) [TechTrain](https://clck.ru/344x7d)
 
+[На главную](https://github.com/ArtemA1ekseev/learning-java-2025/blob/main/README.md)
