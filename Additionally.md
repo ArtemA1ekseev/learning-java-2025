@@ -81,3 +81,5 @@
 ## 🔘Курсы
 - [Javarush](https://javarush.ipnodns.ru/)
 _________________________________________________________________
+
+[На главную](https://github.com/ArtemA1ekseev/learning-java-2025/blob/main/README.md)
