@@ -80,6 +80,10 @@
 
 ## 🔘Курсы
 - [Javarush](https://javarush.ipnodns.ru/)
+- https://cloud.mail.ru/public/CQFu/3SYzytgEC#sjy5deep1edd3jnh
+- https://cloud.mail.ru/public/Fhfo/c7Dku3kms#wxn5c07p1edd3krl
+- https://cloud.mail.ru/public/5wLd/u61ccVuit
+- https://disk.yandex.ru/d/YoYSXIwMivZfx%2525D0%2525A5hmh257ep1edd3lys
 _________________________________________________________________
 
 [На главную](https://github.com/ArtemA1ekseev/learning-java-2025/blob/main/README.md)
