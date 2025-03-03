@@ -1,5 +1,7 @@
 # Книги
 <p align="center"><img src="https://github.com/ArtemA1ekseev/learning-java-2025/assets/113195869/de5f9bfe-0fb1-4773-9f73-d89f6149a6ad" width="500"/></p>
+<p align="center"><img src="https://github.com/user-attachments/assets/1b292049-d27f-44a9-a179-d60c1f81e0e4" width="500"/></p>
+
 
 1) [Брюс Эккель - Философия Java (4-е полное издание)](https://vk.com/wall-111905078_39751)
 2) [Джошуа Блох - Java. Эффективное программирование, 3-е издание (2019)](https://vk.com/wall-111905078_40003)
